@@ -1,5 +1,4 @@
-# FeatureFolders
-ASP.NET Core - MVC Feature Folders
+# ASP.NET Core - MVC Feature Folders
 
 This repository shows how to create Feature Folders in ASP.NET Core.
 
